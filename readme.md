@@ -33,3 +33,9 @@ Result:
 ```json
 {"name":"markdig","html":"<p>hi</p>","version":"0.2.1"}
 ```
+
+## Author
+
+Alexandre MUTEL aka [xoofx](http://xoofx.com)
+
+
