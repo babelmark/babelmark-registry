@@ -117,7 +117,8 @@
     "Name": "league/commonmark",
     "Url": "7GssyVKchMFuF0imOus/m3bujPZ8rYP0mNTDeWn5YDGXItRmQF1rbrhH8bM4rB2SQS+rlt9ceZ8obiSqBje54EPYyR9iZTUEv0RcD73P2pYUwjyPYyhelLZWlQ9QQQGz",
     "Lang": "Php",
-    "Repo": "https://github.com/thephpleague/commonmark"
+    "Repo": "https://github.com/thephpleague/commonmark",
+    "CommonMark": "true"
   },
   {
     "Name": "cebe/markdown",
@@ -147,7 +148,8 @@
     "Name": "markdown-it",
     "Url": "GCYphfMODxrdHz5dxGMmk0AlwSS5TzSG5aGeLH3x67TfjGIyaV01mXTcnungGNX1Dfiza94sc+5B+zCPjoXCJ/KWWd/JTnrpiQdjv7OvXBw=",
     "Lang": "JavaScript",
-    "Repo": "https://github.com/markdown-it/markdown-it"
+    "Repo": "https://github.com/markdown-it/markdown-it",
+    "CommonMark": "true"
   },
   {
     "Name": "earmark",
@@ -159,12 +161,14 @@
     "Name": "markdig",
     "Url": "Xur5K1qwlgGyuSQSMsrcbfP7cdhSE9GrOZn+kDJqHuVJn44sZHZpFI7KMVQWyFzN3GVy0hqJTx5VKnLtSGYDdu95sk71j0WXxDBJU9kamXg=",
     "Lang": "C#",
-    "Repo": "https://github.com/lunet-io/markdig/"
+    "Repo": "https://github.com/lunet-io/markdig/",
+    "CommonMark": "true"
   },
   {
     "Name": "markdig (extra)",
     "Url": "PheM9vuMdNpQSCqzd86hbejMHTSivABJkanHzj2PRR4iiXm6lp8hqI+UW6LnZzyq4m0gtJcs8d90e5cB0mxrhw4TbdTKFZOzHr7vjXo+jA9ruNHnWAZyAUodLkOsr+nSkT9ofKwUzLSUOf883o2Upg==",
     "Lang": "C#",
-    "Repo": "https://github.com/lunet-io/markdig/"
+    "Repo": "https://github.com/lunet-io/markdig/",
+    "CommonMark": "true"
   }
 ]
