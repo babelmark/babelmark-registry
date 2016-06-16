@@ -1,6 +1,6 @@
 # Registry for babelmark
 
-This repository contains the [registry](https://github.com/babelmark/babelmark-registry/blob/master/registry.json) for [babelmark](http://babelmark.github.io)
+This repository contains the [registry](https://github.com/babelmark/babelmark-registry/blob/master/registry.json) for [babelmark](https://babelmark.github.io)
 
 > NOTE: If you want to register an encrypted URL, send me an email at /alexandre_mutel at live dot com/ and I will return you an encrypted URL that you can send via a PR.
 > If your service is enough secure (limiting < 1000 characters) and throttling, you can send plain url in the PR if you want.
