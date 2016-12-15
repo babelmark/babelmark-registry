@@ -170,5 +170,19 @@
     "Lang": "C#",
     "Repo": "https://github.com/lunet-io/markdig/",
     "CommonMark": "true"
+  },
+  {
+    "Name": "MD4C",
+    "Url": "http://morous.org/md4c/babel.php",
+    "Lang": "C",
+    "Repo": "https://github.com/mity/md4c",
+    "CommonMark": "true"
+  },
+  {
+    "Name": "MD4C (strict)",
+    "Url": "http://morous.org/md4c/babel-strict.php",
+    "Lang": "C",
+    "Repo": "https://github.com/mity/md4c",
+    "CommonMark": "true"
   }
 ]
