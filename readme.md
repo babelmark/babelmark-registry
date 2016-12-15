@@ -8,7 +8,7 @@ This repository contains the [registry](https://github.com/babelmark/babelmark-r
 An entry in the registry is composed like this:
 
 * The name of the processor (can contain a version or additional infos)
-* **url**: The url (encrypted or not, see the NOTE below) that will return the translation from markdown to html of the query `text=INSERT_MARKDOWN_HERE`. See below the format of the return of the query.
+* **url**: The url (encrypted or not, see the NOTE below) that will return the translation from markdown to html of the appended query `text=INSERT_MARKDOWN_HERE`. See below the format of the return of the query.
 * **lang**: The language used to build the processor
 * **repo**: A link to a repository or home page of the project
 
@@ -22,7 +22,11 @@ Example:
 }
 ```
 
-The query url must respond to a `http get`request to translate a markdown fragment to html. It must return a json that contains the result of the conversion: 
+The query url must respond to a `http get` request to translate a markdown fragment to html. The query URL must be :
+- a plain path `http://myserver.com/path` (with a trailing `?` or not) 
+- or already composed with parameters like `http://myserver.com/path?param1=myparam&`. In that case, a trailing `&` is required. This is useful if you want for example to share multiple version of your services through the same base url but using different parameters/versions.
+
+The query must return a json that contains the result of the conversion: 
 
 Query:
 ```
