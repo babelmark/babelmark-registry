@@ -196,5 +196,11 @@
     "Url": "https://showdown-tivie.rhcloud.com/github",
     "Lang": "Javascript",
     "Repo": "https://github.com/showdownjs/showdown"
+  },
+  {
+    "Name": "commonmark.js",
+    "Url": "commonmark.js",
+    "Lang": "Javascript",
+    "Repo": "https://github.com/commonmark/commonmark.js"
   }
 ]
