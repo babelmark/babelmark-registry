@@ -78,12 +78,6 @@
     "Repo": "https://github.com/bhollis/maruku"
   },
   {
-    "Name": "minima",
-    "Url": "pwGcTBnooPSg6JOwc4xcC02X1S2uG3M9NM19croJpbSY1UakwLivzXaRFWHyHVR2O9niYsTBWhxDNhVAH1YZient3Q6GzYukE+IzXTEs86w=",
-    "Lang": "Exe",
-    "Repo": "https://backtick-tools.com/minima/0.8.0a1/doc/manual.html"
-  },
-  {
     "Name": "multimarkdown",
     "Url": "CwOrtjo0aj3n55eVU2mZKqqJZ6VrQ/16Tc9ksOZs5DrvADpoF7+oQaSbgsQkclIgoQ0O3yGaNtg5+TUYXHphETBufIIrF9bxReN3JR1mJjM=",
     "Lang": "C",
@@ -146,7 +140,7 @@
   },
   {
     "Name": "markdown-it",
-    "Url": "GCYphfMODxrdHz5dxGMmk0AlwSS5TzSG5aGeLH3x67TfjGIyaV01mXTcnungGNX1Dfiza94sc+5B+zCPjoXCJ/KWWd/JTnrpiQdjv7OvXBw=",
+    "Url": "js:markdown-it",
     "Lang": "JavaScript",
     "Repo": "https://github.com/markdown-it/markdown-it",
     "CommonMark": "true"
