@@ -180,18 +180,6 @@
     "CommonMark": "true"
   },
   {
-    "Name": "Showdown",
-    "Url": "https://showdown-tivie.rhcloud.com/vanilla",
-    "Lang": "Javascript",
-    "Repo": "https://github.com/showdownjs/showdown"
-  },
-  {
-    "Name": "Showdown (github flavor)",
-    "Url": "https://showdown-tivie.rhcloud.com/github",
-    "Lang": "Javascript",
-    "Repo": "https://github.com/showdownjs/showdown"
-  },
-  {
     "Name": "commonmark.js",
     "Url": "js:commonmark.js",
     "Lang": "Javascript",
