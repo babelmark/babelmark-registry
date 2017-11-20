@@ -206,5 +206,14 @@
     "Lang": "C#",
     "Repo": "https://github.com/docascode/markdown",
     "CommonMark": "true"
+  },
+  {
+    "Name": "GitHub Flavored Markdown",
+    "Url": "https://api.github.com/markdown/raw",
+    "Lang": "C",
+    "Repo": "https://github.com/cmark/cmark",
+    "CommonMark": "true",
+    "POST": "true",
+    "VersionHeader": "X-CommonMarker-Version"
   }
 ]
