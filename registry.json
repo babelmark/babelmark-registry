@@ -211,7 +211,7 @@
     "Name": "GitHub Flavored Markdown",
     "Url": "https://api.github.com/markdown/raw",
     "Lang": "C",
-    "Repo": "https://github.com/cmark/cmark",
+    "Repo": "https://github.com/github/cmark",
     "CommonMark": "true",
     "POST": "true",
     "VersionHeader": "X-CommonMarker-Version"
