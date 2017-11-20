@@ -213,6 +213,7 @@
     "Lang": "C",
     "Repo": "https://github.com/cmark/cmark",
     "CommonMark": "true",
-    "POST": "true"
+    "POST": "true",
+    "VersionHeader": "X-CommonMarker-Version"
   }
 ]
