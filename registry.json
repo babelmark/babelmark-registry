@@ -146,12 +146,6 @@
     "CommonMark": "true"
   },
   {
-    "Name": "earmark",
-    "Url": "0q3N+9EPHXfzcsVs/J1eJlocZ1Ioty0GKdUp4iqUJQZn/YZT29GO+qFyBVtoU3yORD2nHbf9TfVpc/Lsq2ZGr2fIZNd+3Cvv00Ue+qIAu+M=",
-    "Lang": "Elixir",
-    "Repo": "https://github.com/pragdave/earmark"
-  },
-  {
     "Name": "markdig",
     "Url": "Xur5K1qwlgGyuSQSMsrcbfP7cdhSE9GrOZn+kDJqHuVJn44sZHZpFI7KMVQWyFzN3GVy0hqJTx5VKnLtSGYDdu95sk71j0WXxDBJU9kamXg=",
     "Lang": "C#",
