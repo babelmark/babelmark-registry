@@ -209,5 +209,11 @@
     "CommonMark": "true",
     "POST": "true",
     "VersionHeader": "X-CommonMarker-Version"
+  },
+  {
+    "Name": "Blogdown",
+    "Url": "https://blogdown.io/api/babelmark",
+    "Lang": "Haskell",
+    "Repo": "https://github.com/alexbecker/blogdown"
   }
 ]
