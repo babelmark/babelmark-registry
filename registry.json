@@ -215,5 +215,12 @@
     "Url": "https://blogdown.io/api/babelmark",
     "Lang": "Haskell",
     "Repo": "https://github.com/alexbecker/blogdown"
+  },
+  {
+    "Name": "pulldown-cmark",
+    "Url": "https://www.xfix.pw/api/babelmark/pulldown-cmark",
+    "Lang": "Rust",
+    "Repo": "https://github.com/raphlinus/pulldown-cmark",
+    "CommonMark": "true"
   }
 ]
