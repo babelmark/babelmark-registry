@@ -229,5 +229,19 @@
     "Lang": "Rust",
     "Repo": "https://github.com/raphlinus/pulldown-cmark",
     "CommonMark": "true"
+  },
+  {
+    "Name": "commonmark-java",
+    "Url": "pdzaHk6mbTPZr/Xd/fLgseInpoa8sbM3ZO83bS6D3b3GycbArQgcfBwAd1fMnCw+ZxREfvpBjedOv27AF44SAEPGZ0KkF2IZecqexNJ9+Ss2V2y4wh/hRKnDM/ULyUu6",
+    "Lang": "Java",
+    "Repo": "https://github.com/atlassian/commonmark-java",
+    "CommonMark": "true"
+  },
+  {
+    "Name": "flexmark-java",
+    "Url": "JLeewzT32sI6B4z+JCL/wHbGj6FvwdPNr/uNc8OgqjzUHRC1rDr0rL1LZqrQ78DPNOwfQ2X1DxLuCG7+lZpwX51SokfjWsHvkXwNaWYIT1VGHOXSbsUqqP3SAcGdCatX",
+    "Lang": "Java",
+    "Repo": "https://github.com/vsch/flexmark-java",
+    "CommonMark": "true"
   }
 ]
