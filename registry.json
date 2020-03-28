@@ -25,15 +25,15 @@
   },
   {
     "Name": "pandoc",
-    "Url": "71dq84J03a8nnMtmPVuA5KlEOHqoj9RsGt3wWrnBS+s8fEI1Axfdw8hJn+/qADKexs/DfD6of6ajPe4ErXr7f0BXKfl50Xf+S+TUNrUnIRWIVWNcQZU5H6Ng0qeKVkblFMNViUYjZLQUvFLxHrwghw==",
+    "Url": "YtMZI4rauLmLbxJRQY6vkEOczEV0vrxigTRw88aZP4jLREJRJvJDwHGogsCOAfyNWiQBezx0J3wV/T7XqfB6xVM/H5b47z1WKCelrDAsnWFXdsepl9mGM9/E47DrI6nidoTnoa0pWRzwufIf5PkFPA==",
     "Lang": "Haskell",
-    "Repo": "http://pandoc.org/"
+    "Repo": "https://pandoc.org/"
   },
   {
     "Name": "pandoc (strict)",
-    "Url": "mGUVoIAX8o5offFgXyYjwVH/b70XHiGzUKUEPkCo0kAeVNmEZmAe6ZC6lRabPJybagjRg1gDafX1DmHj+P3ZLclQWi9Be9qsAgj6JdVR1NXpD3d2PjDYsg/unfc5n55PUzBCqdLVKRncfZa7rNXVbw==",
+    "Url": "Q3QbHn3M5Ns8bKU6Gbfd+pplm1BeO9cRzEaeSM14BxXEyuEdDWS9Zo9E2rZYSGBhI2m2KEUEj3rI6YmQottE11BVBjBONL7/p6P3OrO20Gx9+f67GGmLcOs2agJoOZalTtKOj68RJu4OnPjWy/lcWw==",
     "Lang": "Haskell",
-    "Repo": "http://pandoc.org/"
+    "Repo": "https://pandoc.org/"
   },
   {
     "Name": "php-markdown",
