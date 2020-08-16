@@ -243,5 +243,11 @@
     "Lang": "Java",
     "Repo": "https://github.com/vsch/flexmark-java",
     "CommonMark": "true"
+  },
+  {
+    "Name": "Marked",
+    "Url": "e3WTk3SEf3VTbKeJLbIf0ZQMecf8y/RKEfLqueTLEnYeKXYcsuSDI57RkmcsqgcKXvuqRdCXMb+lYJO6uEoqUuIq6H78O05iaFdjPNLWPPM=",
+    "Lang": "Javascript",
+    "Repo": "https://github.com/markedjs/marked"
   }
 ]
