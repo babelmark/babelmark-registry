@@ -249,5 +249,11 @@
     "Url": "e3WTk3SEf3VTbKeJLbIf0ZQMecf8y/RKEfLqueTLEnYeKXYcsuSDI57RkmcsqgcKXvuqRdCXMb+lYJO6uEoqUuIq6H78O05iaFdjPNLWPPM=",
     "Lang": "Javascript",
     "Repo": "https://github.com/markedjs/marked"
+  },
+  {
+    "Name": "pycmarkgfm",
+    "Url": "https://babelmark-pycmarkgfm.zopi.eu/",
+    "Lang": "Python",
+    "Repo": "https://github.com/zopieux/pycmarkgfm"
   }
 ]
