@@ -90,12 +90,6 @@
     "Repo": "http://kramdown.gettalong.org/"
   },
   {
-    "Name": "blackfriday",
-    "Url": "GLlifsalUaTWsqb0jl4vbFsebXtLHo1tGfJL2z0yb5UU8n6yaZ83lGEtWh+wHmG8YXNC5Pf7F8mDLjBl1yB6CMnYcf1Jo1gY6zH4SEJ5Xvk=",
-    "Lang": "Go",
-    "Repo": "https://github.com/russross/blackfriday"
-  },
-  {
     "Name": "s9e/TextFormatter (Fatdown/PHP)",
     "Url": "c8aWUb68xvCieDRKZPy3q3VWE+FLqaYnXLPCc+U33KvdffHxWaIgPlKUYLNpFuR1LXv++lsnHkBtehNRCZkVaZBf1EeblDECrSy4WfWhFrcjjDFF1S5mB+jEckn6zM5D",
     "Lang": "Php",
@@ -218,12 +212,6 @@
     "VersionHeader": "X-CommonMarker-Version"
   },
   {
-    "Name": "Blogdown",
-    "Url": "https://blogdown.io/api/babelmark",
-    "Lang": "Haskell",
-    "Repo": "https://github.com/alexbecker/blogdown"
-  },
-  {
     "Name": "pulldown-cmark",
     "Url": "https://www.xfix.pw/api/babelmark/pulldown-cmark",
     "Lang": "Rust",
@@ -243,12 +231,6 @@
     "Lang": "Java",
     "Repo": "https://github.com/vsch/flexmark-java",
     "CommonMark": "true"
-  },
-  {
-    "Name": "Marked",
-    "Url": "e3WTk3SEf3VTbKeJLbIf0ZQMecf8y/RKEfLqueTLEnYeKXYcsuSDI57RkmcsqgcKXvuqRdCXMb+lYJO6uEoqUuIq6H78O05iaFdjPNLWPPM=",
-    "Lang": "Javascript",
-    "Repo": "https://github.com/markedjs/marked"
   },
   {
     "Name": "pycmarkgfm",
