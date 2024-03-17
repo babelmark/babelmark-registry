@@ -40,6 +40,6 @@ Result:
 
 ## Author
 
-Alexandre MUTEL aka [xoofx](http://xoofx.com)
+Alexandre MUTEL aka [xoofx](https://xoofx.github.io)
 
 
