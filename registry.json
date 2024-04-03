@@ -212,13 +212,6 @@
     "VersionHeader": "X-CommonMarker-Version"
   },
   {
-    "Name": "pulldown-cmark",
-    "Url": "https://www.xfix.pw/api/babelmark/pulldown-cmark",
-    "Lang": "Rust",
-    "Repo": "https://github.com/raphlinus/pulldown-cmark",
-    "CommonMark": "true"
-  },
-  {
     "Name": "commonmark-java",
     "Url": "pdzaHk6mbTPZr/Xd/fLgseInpoa8sbM3ZO83bS6D3b3GycbArQgcfBwAd1fMnCw+ZxREfvpBjedOv27AF44SAEPGZ0KkF2IZecqexNJ9+Ss2V2y4wh/hRKnDM/ULyUu6",
     "Lang": "Java",
