@@ -230,5 +230,18 @@
     "Url": "https://babelmark-pycmarkgfm.zopi.eu/",
     "Lang": "Python",
     "Repo": "https://github.com/zopieux/pycmarkgfm"
+  },
+  {
+    "Name": "pmarkdown (default)",
+    "Url": "https://dingus.mkdoc.io/dingus.json?mode=default&",
+    "Lang": "Perl",
+    "Repo": "https://github.com/mkende/pmarkdown"
+  },
+  {
+    "Name": "pmarkdown (cmark)",
+    "Url": "https://dingus.mkdoc.io/dingus.json?mode=cmark&",
+    "Lang": "Perl",
+    "Repo": "https://github.com/mkende/pmarkdown",
+    "CommonMark": "true"
   }
 ]
