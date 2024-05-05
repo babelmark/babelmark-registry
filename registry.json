@@ -182,27 +182,6 @@
     "CommonMark": "true"
   },
   {
-    "Name": "DFM",
-    "Url": "1nswAeEkG61EoQTGLDnzJyVhH71g896KwwjlrrbvEi/1q9IJDOimexRVur+/yhpmmf07B7yisgvLAH0zMbZKaptoWhCK9MyTMLBQPFOpumeDoHYqNxVRuOAJHI9nPeo6",
-    "Lang": "C#",
-    "Repo": "https://github.com/dotnet/docfx",
-    "CommonMark": "false"
-  },
-  {
-    "Name": "DFM-Latest",
-    "Url": "Qln+Nq0LaA8F0lJ0FUiArP6Thf1DnwKcN0E7avBsOSHQyB+3GPXYndok3s6CYKHpKjkgXqmAY8ce3xPT/3ovIFjckSwTd44daCMp4Di79DQAXIsm/ir6DT+jbxdZxEQ1",
-    "Lang": "C#",
-    "Repo": "https://github.com/dotnet/docfx",
-    "CommonMark": "false"
-  },
-  {
-    "Name": "Markdig (DocFX)",
-    "Url": "Zh0uWeeY7uqFB01DtV/9eNg1qutZzFuHng1fNHYnWjgBJ7P0Vrw3bWICf1JIAOaHa7Akyv6ZPlQ9YfH/2+a1WXuy4fcpJ0z4IysBWJea1lUAFnzOLB4WlGs8XB3FRRHB",
-    "Lang": "C#",
-    "Repo": "https://github.com/docascode/markdown",
-    "CommonMark": "true"
-  },
-  {
     "Name": "GitHub Flavored Markdown",
     "Url": "https://api.github.com/markdown/raw",
     "Lang": "C",
@@ -210,13 +189,6 @@
     "CommonMark": "true",
     "POST": "true",
     "VersionHeader": "X-CommonMarker-Version"
-  },
-  {
-    "Name": "pulldown-cmark",
-    "Url": "https://www.xfix.pw/api/babelmark/pulldown-cmark",
-    "Lang": "Rust",
-    "Repo": "https://github.com/raphlinus/pulldown-cmark",
-    "CommonMark": "true"
   },
   {
     "Name": "commonmark-java",
@@ -243,5 +215,18 @@
     "Url": "e3WTk3SEf3VTbKeJLbIf0ZQMecf8y/RKEfLqueTLEnYeKXYcsuSDI57RkmcsqgcKXvuqRdCXMb+lYJO6uEoqUuIq6H78O05iaFdjPNLWPPM=",
     "Lang": "Javascript",
     "Repo": "https://github.com/markedjs/marked"
+  },
+  {
+    "Name": "pmarkdown (default)",
+    "Url": "https://dingus.mkdoc.io/dingus.json?mode=default&",
+    "Lang": "Perl",
+    "Repo": "https://github.com/mkende/pmarkdown"
+  },
+  {
+    "Name": "pmarkdown (cmark)",
+    "Url": "https://dingus.mkdoc.io/dingus.json?mode=cmark&",
+    "Lang": "Perl",
+    "Repo": "https://github.com/mkende/pmarkdown",
+    "CommonMark": "true"
   }
 ]
