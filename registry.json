@@ -1,29 +1,5 @@
 [
   {
-    "Name": "markdown101",
-    "Url": "vjIUtd8TUNW3ba68vfKflaDpMzdoQDCIUGlQyFTyQFNI5B8P9Uj6R0fIID5O6y6BjA7/pboU/NE6wnI8qVHQ5Zc5R+qIapkE4uH6ucxjnw1IWk/gVIcznnsz5s5+nKhb",
-    "Lang": "Perl",
-    "Repo": "https://daringfireball.net/projects/markdown/"
-  },
-  {
-    "Name": "markdown102",
-    "Url": "RSxtJ1LgqbB5JBIkxkYMSGZpWjnIb/Fpi0+lD6t1+DEPiKHTSgUEnooN9+3s1t5GajkwDE7Tq7I0Ud/pq28TA/YUqtD333TAKyNDfZ4rRToclZu7x0OUlMSbE6DKi1YB",
-    "Lang": "Perl",
-    "Repo": "https://daringfireball.net/projects/markdown/"
-  },
-  {
-    "Name": "lunamark",
-    "Url": "KhpRM+vT6/ot/UgYtO4SXMw5dPB3jx74XONuz0yvOn8ih4bISyudHWeGUjVtsPCW2lnW/vE2hSbOn7JxK9L1AaaJtzL1bC9q8Tr87mVnvHw=",
-    "Lang": "Lua",
-    "Repo": "https://github.com/jgm/lunamark"
-  },
-  {
-    "Name": "cheapskate",
-    "Url": "jzhPEuEGVt0eXsteEQHQFaTF/tXb/0+uH1ylMbskxOslfZOGyfEirXemVukzr3iWaZZLyDIXlvS1SW+fF6S2j6H30aRdxrg9G009dmEJpC6Zhz6YByDSiDVS/ANc1bhS",
-    "Lang": "Haskell",
-    "Repo": "https://github.com/jgm/cheapskate"
-  },
-  {
     "Name": "pandoc",
     "Url": "c62eBonYodk4lvg3RcWKrzz8giU6vGGuGjmylGrkVn9vFCJeVeyNjqMkvC/bAC8+n2Qo3T5Wx/oadgNazXUOn3K3lROiRbbNLdOaSPzHzas7hDCURXXKIKZCPqg/fmUNAbgnLE2C4RO98RVjcECwGw==",
     "Lang": "Haskell",
@@ -54,18 +30,6 @@
     "Repo": "https://github.com/waylan/Python-Markdown"
   },
   {
-    "Name": "redcarpet",
-    "Url": "JM7wOAbwy5tKW1qGouyFuZd72cwtSAUoPY98OuVeFCb1JBlLfvB300y5ON8ur5JnrhQZgjpYguzJi0hvmUJr4nHn2uMkHyhduUn0nKEmDtbA3JOVf/IHV/3VPNMpsKri",
-    "Lang": "Ruby",
-    "Repo": "https://github.com/vmg/redcarpet"
-  },
-  {
-    "Name": "rdiscount",
-    "Url": "xOg3XgS81rxuJvKzlP5LDbbWDsxQwGGNct6kAHqKKNg9qHpVswYogItF7WwDfDkbzd+zrqdgzwNG1AEHS1Ri0NDyIkAY+H0vLh4RTFwucdmxIy0L8IWXNFjUhHuxEuJ4",
-    "Lang": "Ruby",
-    "Repo": "https://github.com/davidfstr/rdiscount"
-  },
-  {
     "Name": "maruku",
     "Url": "dWA4tSUE0BW//KxOVJqZ/uJAUtrz1Gd+XZGMu1iozxCoHUBXlIJ3KIsinZN/z1IQZc/kDFJGqRTabU8NRBEfKOlrWrwG1U1DMgzm5hKSHj0=",
     "Lang": "Ruby",
@@ -82,12 +46,6 @@
     "Url": "CwOrtjo0aj3n55eVU2mZKqqJZ6VrQ/16Tc9ksOZs5DrvADpoF7+oQaSbgsQkclIgoQ0O3yGaNtg5+TUYXHphETBufIIrF9bxReN3JR1mJjM=",
     "Lang": "C",
     "Repo": "http://fletcherpenney.net/multimarkdown/"
-  },
-  {
-    "Name": "kramdown",
-    "Url": "W0fu8b/PIt1nMfNu6D1IpmvQZO7/ZnJdREQ5k+Wvi2PK9XHhxPEepFThskxk6sxS4JckXyNew0hNik8ySx3t2HbwUDjqsXj+Beghf1Tk2jQCFbdOSgZu2bJH+4nLj1Ur",
-    "Lang": "Ruby",
-    "Repo": "http://kramdown.gettalong.org/"
   },
   {
     "Name": "s9e/TextFormatter (Fatdown/PHP)",
@@ -158,20 +116,6 @@
     "Url": "PheM9vuMdNpQSCqzd86hbejMHTSivABJkanHzj2PRR4iiXm6lp8hqI+UW6LnZzyq4m0gtJcs8d90e5cB0mxrhw4TbdTKFZOzHr7vjXo+jA9ruNHnWAZyAUodLkOsr+nSkT9ofKwUzLSUOf883o2Upg==",
     "Lang": "C#",
     "Repo": "https://github.com/lunet-io/markdig/",
-    "CommonMark": "true"
-  },
-  {
-    "Name": "MD4C",
-    "Url": "http://morous.org/md4c/babel.php",
-    "Lang": "C",
-    "Repo": "https://github.com/mity/md4c",
-    "CommonMark": "true"
-  },
-  {
-    "Name": "MD4C (strict)",
-    "Url": "http://morous.org/md4c/babel-strict.php",
-    "Lang": "C",
-    "Repo": "https://github.com/mity/md4c",
     "CommonMark": "true"
   },
   {
