@@ -176,56 +176,56 @@
   {
     "Lang": "Rust",
     "Name": "pulldown-cmark",
-    "Url": "https://markdown-dingus.shuttleapp.rs/pulldown-cmark",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/pulldown-cmark",
     "CommonMark": "true",
     "Repo": "https://github.com/pulldown-cmark/pulldown-cmark"
   },
   {
     "Lang": "Rust",
     "Name": "markdown",
-    "Url": "https://markdown-dingus.shuttleapp.rs/markdown",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/markdown",
     "CommonMark": "true",
     "Repo": "https://github.com/wooorm/markdown-rs"
   },
   {
     "Lang": "Rust",
     "Name": "comrak",
-    "Url": "https://markdown-dingus.shuttleapp.rs/comrak",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/comrak",
     "CommonMark": "true",
     "Repo": "https://github.com/kivikakk/comrak"
   },
   {
     "Lang": "Rust",
     "Name": "markdown-it",
-    "Url": "https://markdown-dingus.shuttleapp.rs/markdown-it",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/markdown-it",
     "CommonMark": "true",
     "Repo": "https://github.com/markdown-it-rust/markdown-it"
   },
   {
     "Lang": "Rust",
     "Name": "markdowny",
-    "Url": "https://markdown-dingus.shuttleapp.rs/markdowny",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/markdowny",
     "CommonMark": "false",
     "Repo": "https://gitlab.com/bitpowder/indigo-ng"
   },
   {
     "Lang": "Rust",
     "Name": "concisemark",
-    "Url": "https://markdown-dingus.shuttleapp.rs/concisemark",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/concisemark",
     "CommonMark": "false",
     "Repo": "https://github.com/ikey4u/concisemark"
   },
   {
     "Lang": "Rust",
     "Name": "mdxt",
-    "Url": "https://markdown-dingus.shuttleapp.rs/mdxt",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/mdxt",
     "CommonMark": "false",
     "Repo": "https://github.com/baehyunsol/mdxt"
   },
   {
     "Lang": "Rust",
     "Name": "mini_markdown",
-    "Url": "https://markdown-dingus.shuttleapp.rs/mini_markdown",
+    "Url": "https://markdown-dingus-ezo7.shuttle.app/mini_markdown",
     "CommonMark": "false",
     "Repo": "https://github.com/darakian/mini_markdown"
   }
