@@ -228,5 +228,26 @@
     "Url": "https://markdown-dingus-ezo7.shuttle.app/mini_markdown",
     "CommonMark": "false",
     "Repo": "https://github.com/darakian/mini_markdown"
+  },
+  {
+    "Lang": "Kotlin",
+    "Name": "intellij-markdown (commonmark)",
+    "Url": "https://babelmark.ketal.icu/?mode=commonmark&",
+    "CommonMark": "true",
+    "Repo": "https://github.com/JetBrains/intellij-markdown"
+  },
+  {
+    "Lang": "Kotlin",
+    "Name": "intellij-markdown (GFM)",
+    "Url": "https://babelmark.ketal.icu/?mode=gfm&",
+    "CommonMark": "false",
+    "Repo": "https://github.com/JetBrains/intellij-markdown"
+  },
+  {
+    "Lang": "Kotlin",
+    "Name": "intellij-markdown (JetBrains Space-flavoured markdown)",
+    "Url": "https://babelmark.ketal.icu/?mode=sfm&",
+    "CommonMark": "false",
+    "Repo": "https://github.com/JetBrains/intellij-markdown"
   }
 ]
