@@ -228,7 +228,7 @@
     "Url": "https://dingus.passcod.nz/mini_markdown",
     "CommonMark": "false",
     "Repo": "https://github.com/darakian/mini_markdown"
-  }
+  },
   {
     "Lang": "Kotlin",
     "Name": "intellij-markdown (commonmark)",
